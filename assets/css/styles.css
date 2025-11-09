@@ -1,0 +1,31 @@
+.btn-primary {
+  --bs-btn-disabled-bg: #8f969c;
+  --bs-btn-disabled-border-color: #8f969c;
+}
+
+.cursor-pointer {
+  cursor: pointer;
+}
+
+/* background: #AF7D1B; */
+
+/* background: #D8AE43; */
+
+.one-panel, .multi-panel, .sum-panel {
+  background: #07371e;
+}
+
+.one-panel label, .multi-panel label, .sum-panel label {
+  color: #ececec;
+}
+
+.one-panel p, .multi-panel p {
+  color: #d2d2d2;
+}
+
+.one-panel input, .multi-panel input, .sum-panel input {
+  background: #0a4223 !important;
+  color: #ececec !important;
+  border: none !important;
+}
+
