@@ -11,17 +11,28 @@
 ![Screenshot 1](assets/img/screenshots/screenshot-1.webp)
 
 ## Beschreibung
+
 Spak ist ein einfaches Würfelspiel für einen Spieler. Ziel des Spiels ist es, 
 durch geschicktes Würfeln und Setzen von Punkten eine möglichst hohe Punktzahl 
 zu erreichen. Das Spiel ist inspiriert von klassischen Würfelspielen wie Kniffel
-oder Yahtzee, bietet jedoch eine eigene Variante mit einzigartigen Regeln und Strategien. 
+oder Yahtzee, bietet jedoch eine eigene Variante mit einzigartigen Regeln und 
+Strategien.
+
+## Geschichte
+
+Spakgame wurde ursprünglich 1999 für eine Online-Werbekampagne der Firma 
+„Schneider & Coen IT-Dienstleistungen“ aus Krefeld als (zur damaligen Zeit 
+technisch aktuellem) Java-Applet entwickelt. Einige Jahre später wurde das Spiel 
+dann noch mal komplett neu in HTML, CSS und JavaScript implementiert.
 
 ## Technologie
+
 Das Spiel ist komplett in HTML, CSS und JavaScript geschrieben und läuft direkt 
 im Webbrowser. Es benötigt keinen Server oder Backend und speichert den 
 Spielstand lokal im Browser.
 
 ## Features
+
 - Einfache und intuitive Benutzeroberfläche
 - Lokale Speicherung des Spielstands im Browser
 - Kompatibel mit modernen Webbrowsern
@@ -46,5 +57,6 @@ Spielstand lokal im Browser.
 4. Optional: Den Quellcode anpassen und erweitern, da das Spiel Open Source ist.
 
 ## Changelog
+
 Das Changelog mit einer Übersicht über alle Änderungen und Versionen ist unter
 [CHANGELOG.md](CHANGELOG.md) zu finden.
