@@ -6,6 +6,11 @@
 @author: Sascha Schneider <sc@niederrhein.studio>  
 @license: AGPL 3.0 only
 
+## Online spielen
+
+**Die spielbare Online-Version ist unter 
+[spakgame.niederrhein.studio](https://spakgame.niederrhein.studio) verfügbar.**
+
 ## Screenshots
 
 ![Screenshot 1](assets/img/screenshots/screenshot-1.webp)
@@ -70,6 +75,23 @@ Spielstand lokal im Browser.
 2. Die Datei index.html im Browser öffnen.  
 3. Viel Spaß beim Spielen!
 4. Optional: Den Quellcode anpassen und erweitern, da das Spiel Open Source ist.
+
+### Webapp-Installation:
+
+Spakgame ist auch als Webapp über den Chrome-Webbrowser installierbar. Einfach 
+die Webseite 
+[spakgame.niederrhein.studio](https://spakgame.niederrhein.studio) im 
+Chrome-Browser öffnen und im Menü die Option „Zum Startbildschirm hinzufügen“ 
+auswählen.
+
+Dies ist bei folgenden Chrome-Versionen möglich:
+
+* Chrome auf Android
+* Chrome auf Windows
+* Chrome auf macOS
+* Chrome auf iOS
+* Chrome auf ChromeOS
+* Chrome auf Linux
 
 ## Changelog
 
