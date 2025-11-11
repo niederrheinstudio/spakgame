@@ -31,9 +31,14 @@ für ethisches Spieldesign und die Auswirkungen (von aus heutiger Sicht
 problemtischen „Dark Patterns“) noch nicht so ausgeprägt war wie heute. 
 
 Dazu gehören unter anderem Belohnungssysteme und andere Mechanismen, die darauf 
-abzielen, die Spieler zu längeren Spielsitzungen zu animieren. Diese 
-Designentscheidungen sind zum Zeitpunkt der Entstehung bewusst getroffen worden, 
+abzielen, die Spieler zu längeren Spielsitzungen zu animieren.  Diese Designentscheidungen sind zum Zeitpunkt der Entstehung bewusst getroffen worden, 
 um die Spielerbindung zu erhöhen.
+
+* Die implementierten Mechanismen können dazu führen, dass Spieler mehr Zeit im 
+  Spiel verbringen, als sie ursprünglich beabsichtigt hatten.
+* Die in der ursprünglichen Desktop-Version vorhandene und oft nachgefragte 
+  „Cheftaste“, die es ermöglichte, das Spiel schnell zu minimieren oder zu
+  verstecken, ist in der Webversion nicht verfügbar.
 
 **Spieler sollten sich dieser Mechanismen bewusst sein und ihr Spielverhalten 
 entsprechend reflektieren.**
