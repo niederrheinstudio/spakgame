@@ -28,7 +28,7 @@ sondern über viele Runden hinweg gespielt wird und spannend bleibt.
 
 Das Spiel wurde ursprünglich 1999 entwickelt, zu einer Zeit, als das Bewusstsein
 für ethisches Spieldesign und die Auswirkungen (von aus heutiger Sicht 
-problemtischen „Dark Patterns“) noch nicht so ausgeprägt war wie heute. 
+problematischen „Dark Patterns“) noch nicht so ausgeprägt war wie heute. 
 
 Dazu gehören unter anderem Belohnungssysteme und andere Mechanismen, die darauf 
 abzielen, die Spieler zu längeren Spielsitzungen zu animieren.  Diese Designentscheidungen sind zum Zeitpunkt der Entstehung bewusst getroffen worden, 
