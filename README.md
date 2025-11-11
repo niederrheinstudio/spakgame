@@ -23,19 +23,22 @@ sondern über viele Runden hinweg gespielt wird und spannend bleibt.
 
 Das Spiel wurde ursprünglich 1999 entwickelt, zu einer Zeit, als das Bewusstsein
 für ethisches Spieldesign und die Auswirkungen (von aus heutiger Sicht 
-problemtischen „Dark Patterns“) noch nicht so ausgeprägt war wie heute. Dazu 
-gehören unter anderem Belohnungssysteme und andere Mechanismen, die darauf 
+problemtischen „Dark Patterns“) noch nicht so ausgeprägt war wie heute. 
+
+Dazu gehören unter anderem Belohnungssysteme und andere Mechanismen, die darauf 
 abzielen, die Spieler zu längeren Spielsitzungen zu animieren. Diese 
 Designentscheidungen sind zum Zeitpunkt der Entstehung bewusst getroffen worden, 
-um die Spielerbindung zu erhöhen. Spieler sollten sich dieser Mechanismen 
-bewusst sein und ihr Spielverhalten entsprechend reflektieren.
+um die Spielerbindung zu erhöhen.
+
+**Spieler sollten sich dieser Mechanismen bewusst sein und ihr Spielverhalten 
+entsprechend reflektieren.**
 
 ## Geschichte
 
 Spakgame wurde ursprünglich 1999 für eine Online-Werbekampagne der Firma 
 „Schneider & Coen IT-Dienstleistungen“ aus Krefeld als (zur damaligen Zeit 
-technisch aktuellem) Java-Applet entwickelt. Einige Jahre später wurde das Spiel 
-dann noch mal komplett neu in HTML, CSS und JavaScript implementiert.
+technisch aktuellem) Java-Applet und Java-Anwendung entwickelt. Einige Jahre 
+später wurde das Spiel dann noch mal komplett neu in HTML, CSS und JavaScript implementiert.
 
 ## Technologie
 
